@@ -5,17 +5,6 @@ import { MantineProvider } from '@mantine/core';
 import { NotificationsProvider } from '@mantine/notifications';
 import { Footer } from '../lib/Footer.js';
 
-// Links for footer
-const footerlinks = [
-  {
-    "link": 'https://github.com/bryanmontalvan/shareddaily',
-    "label": 'GitHub'
-  },
-  {
-    "link": 'https://mantine.dev/',
-    "label": 'Created using Mantine'
-  }
-]
 
 export default function Home() {
   return (
@@ -23,7 +12,7 @@ export default function Home() {
       <NotificationsProvider >
         <CarForm />
         <SearchForm />
-        <Footer links={footerlinks} />
+        <Footer/>
       </NotificationsProvider>
     </MantineProvider>
   )
