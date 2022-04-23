@@ -20,7 +20,7 @@ const footerlinks = [
 export default function Home() {
   return (
     <MantineProvider theme={{ fontFamily: 'Open Sans'}}>
-      <NotificationsProvider style={{height: '100vh'}}>
+      <NotificationsProvider >
         <CarForm />
         <SearchForm />
         <Footer links={footerlinks} />
