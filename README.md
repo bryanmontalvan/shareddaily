@@ -5,6 +5,7 @@ A simple web app where you can share your daily ride
 
 ## Stack and tooling
 **Frontend:** Next.js, Mantine (React Library), Redis OM (Object Mapping)
+
 **Backend:** Redis, AWS
 
 
