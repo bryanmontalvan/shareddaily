@@ -3,6 +3,8 @@ A simple web app where you can share your daily ride
 
 (Live demo link coming soon)
 
+**Note:** Heroku's GitHub integration is having security issues, so deployment is not being updated
+
 ## Stack and tooling
 **Frontend:** Next.js, Mantine (React Library), Redis OM (Object Mapping)
 
