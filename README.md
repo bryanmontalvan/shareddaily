@@ -3,8 +3,6 @@ A simple web app where you can share your daily ride and view others
 
 Link: https://shareddaily.herokuapp.com/
 
-**Note:** Heroku's GitHub integration is having security issues, so deployment is not being updated
-
 ## Technologies and Tools used
 
 <div>
