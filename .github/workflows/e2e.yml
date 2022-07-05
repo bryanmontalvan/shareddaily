@@ -19,6 +19,4 @@ jobs:
         with:
           build: npm run build
           start: npm start
-        env: 
-          credentials: ${{ secrets.REDIS_SECRET }}
           
