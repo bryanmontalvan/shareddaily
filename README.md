@@ -1,14 +1,27 @@
 # SharedDaily
-A simple web app where you can share your daily ride
+A simple web app where you can share your daily ride and view others
 
 Link: https://shareddaily.herokuapp.com/
 
 **Note:** Heroku's GitHub integration is having security issues, so deployment is not being updated
 
-## Stack and tooling
-**Frontend:** Next.js, Mantine (React Library), Redis OM (Object Mapping)
+## Technologies and Tools used
 
-**Backend:** Redis, AWS
+<div>
+ <h3>Frontend</h3>
+ <img alt="next-js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+ <img alt="node-js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img alt="redis-om" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
+
+<div>
+  <h3>Backend + Testing</h3>
+  <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img alt="gh-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+</div>
 
 
 ## SharedDaily Preview
